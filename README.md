@@ -24,7 +24,7 @@
 ✔ I have successfully delivered many complex e-commerce and business sites and content management systems to clients so far. If you’re looking for a skilled and reliable Full Stack Web Developer, look no further. Let’s work together to bring your vision to life! 
 
 <a href="https://twitter.com/shajadulshadin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shajadulshadin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shajadulshadin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shajadulshadin" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/shajadulshadin/](https://www.linkedin.com/in/shajadul-shadin-028323290/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shajadulshadin" height="30" width="40" /></a>
 <a href="https://fb.com/shajadulsandy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shajadulsandy" height="30" width="40" /></a>
 <a href="https://instagram.com/shajadulsandy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shajadulsandy/" height="30" width="40" /></a>
 
