@@ -23,11 +23,6 @@
 
 ✔ I have successfully delivered many complex e-commerce and business sites and content management systems to clients so far. If you’re looking for a skilled and reliable Full Stack Web Developer, look no further. Let’s work together to bring your vision to life! 
 
-<a href="https://twitter.com/shajadulshadin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shajadulshadin" height="30" width="40" /></a>
-<a href="[https://linkedin.com/in/shajadulshadin/](https://www.linkedin.com/in/shajadul-shadin-028323290/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shajadulshadin" height="30" width="40" /></a>
-<a href="https://fb.com/shajadulsandy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shajadulsandy" height="30" width="40" /></a>
-<a href="https://instagram.com/shajadulsandy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shajadulsandy/" height="30" width="40" /></a>
-
 <img src="https://camo.githubusercontent.com/982edab0abc28a4fdaf235be7c9364e1ab4ce76000381f3160dd02aa517d59b6/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d72617a6962756c2d69736c616d266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="majidulkhan" data-canonical-src="https://komarev.com/ghpvc/?username=shajadulshadin&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;">
 
 <h3 align="left">Languages and Tools:</h3>
