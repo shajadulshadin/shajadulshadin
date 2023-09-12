@@ -5,21 +5,21 @@
 
 ✔ Fulfilling the client's requirements and delivering the project before the deadline is my top priority whenever I undertake any project. I always maintain coding standards and provide clean and fresh code to clients.
 
- I am 100% proficient in :
-✅ HTML 5 / CSS 3
-✅ Javascript or ES6
-✅ JavaScript library like jQuery 
-✅ PHP version 8 
-✅ MySQL Dababase
-✅ User interface (UI)
-✅ CSS framework like Bootstrap 5
+ I am 100% proficient in : </br>
+✅ HTML 5 / CSS 3 </br>
+✅ Javascript or ES6 </br>
+✅ JavaScript library like jQuery </br> 
+✅ PHP version 8 </br> 
+✅ MySQL Dababase </br>
+✅ User interface (UI) </br>
+✅ CSS framework like Bootstrap 5 </br>
 
- I will provide such database work :
-✅ MySQLi procedural
-✅ MySQLi OOP With PHP
-✅ PHP Data Objects (PDO)
-✅ Database loading using AJAX / Javascript fetch API
-✅ REST API
+ I will provide such database work : </br>
+✅ MySQLi procedural </br>
+✅ MySQLi OOP With PHP </br>
+✅ PHP Data Objects (PDO) </br>
+✅ Database loading using AJAX / Javascript fetch API </br>
+✅ REST API </br>
 
 ✔ I have successfully delivered many complex e-commerce and business sites and content management systems to clients so far. If you’re looking for a skilled and reliable Full Stack Web Developer, look no further. Let’s work together to bring your vision to life! 
 
