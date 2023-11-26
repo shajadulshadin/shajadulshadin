@@ -21,4 +21,4 @@
 ✅ Database loading using AJAX / Javascript fetch API </br>
 ✅ REST API </br>
 
-✔ I have successfully delivered many complex e-commerce and business sites and content management systems to clients so far. If you’re looking for a skilled and reliable Full Stack Web Developer, look no further. Let’s work together to bring your vision to life! 
+✔ I have successfully delivered many complex e-commerce and business sites and content management systems to clients so far. If you’re looking for a skilled and reliable Full Stack Web Developer, look no further. Let’s work together to bring your vision to! 
